@@ -1,0 +1,23 @@
+{
+  "name": "lerna-test",
+  "version": "0.0.0",
+  "description": "Lerna indpendent mode test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evolutionxbox/lerna-test.git"
+  },
+  "keywords": [
+    "lerna",
+    "node"
+  ],
+  "author": "Jon Cousins <evolutionxbox@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/evolutionxbox/lerna-test/issues"
+  },
+  "homepage": "https://github.com/evolutionxbox/lerna-test#readme"
+}
