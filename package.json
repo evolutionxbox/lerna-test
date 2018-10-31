@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/evolutionxbox/lerna-test/issues"
   },
-  "homepage": "https://github.com/evolutionxbox/lerna-test#readme"
+  "homepage": "https://github.com/evolutionxbox/lerna-test#readme",
+  "devDependencies": {
+    "lerna": "^3.4.3"
+  }
 }
